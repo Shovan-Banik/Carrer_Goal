@@ -1,0 +1,36 @@
+.goal_bg_img{
+    background-image:url(images/banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    /* height: 100vh; */
+}
+.goal_slider1{
+    background-image: url(images/slider1.png);
+    background-size: cover;
+    height: 70vh;
+    background-position: center;
+    background-blend-mode:multiply;
+    /* opacity: 0.5; */
+
+}
+.goal_slider2{
+    background-image: url(images/slider2.png);
+    background-size: cover;
+    height: 70vh;
+    background-position: center;
+    background-blend-mode:multiply;
+    /* opacity: 0.5; */
+
+}
+.goal_slider3{
+    background-image: url(images/slider3.png);
+    background-size: cover;
+    height: 70vh;
+    /* background-position: center; */
+    background-blend-mode:hard-light;
+    /* opacity: 0.5; */
+    background-position: top;
+
+
+}
